@@ -78,15 +78,15 @@ First price in the category Advanced Technology & Improving Processes of CTKs Ba
 `Proficient`
 - Python
 - Git
+- Docker
+- SQL
 
 `Competent`
-- SQL
-- Docker
 - Kubernetes
 - CI/CD
 - Cloud (GCP, AWS)
 
-`Advanced beginner`
+`Decent`
 - Golang
 - Terraform
 
@@ -97,9 +97,6 @@ First price in the category Advanced Technology & Improving Processes of CTKs Ba
 - Collaboration
 - Cooperation
 - Problem Solving
-
-`Competent`
-- Organization
 
 
 <!-- ### Footer
