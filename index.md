@@ -11,12 +11,7 @@ Data Engineer
 </div>
 
 ## Presentation
-....
-
-
-## Currently
-
-Data Engineer searching for new opportunities.
+Engineer with a strong mathematical background and a passion for data engineering/science projects with a special interest in cloud development and DevOps/MLOps.
 
 ## Work Experience
 
