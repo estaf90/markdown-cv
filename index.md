@@ -1,14 +1,17 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Emil Stafs's CV
 ---
-# Isaac Newto
-Physicist, Mathematician, Cambridge professor.
+# Emil Staf
+Data Engineer
 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+<a href="emil.staf@gmail.com">emil.staf@gmail.com</a>
+| <a href="https://www.linkedin.com/in/emil-staf-523b8120/">LinkedIn Profile</a>
 </div>
+
+## Presentation
+....
 
 
 ## Currently
@@ -24,6 +27,11 @@ Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.w
 
 Cooling, power series, optics, alchemy, planetary motions, apples.
 
+## Work Experience
+
+`09/2022 - present`
+__Technical consultant @ CEVT__
+Working as a Data Engineer in a cross functional team following the agile ways of working. I took part in discussions regarding services and frameworks to be used in our backend, most of which functionality was written in Go and some in Python. Implemented some functionality to handle http requests, connecting to a CloudSQL database and return some query results. Learned about migrations to control the evolution of a database. I also studied Terraform and investigated how we could benefit from using IaC.
 
 ## Education
 
