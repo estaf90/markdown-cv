@@ -16,48 +16,34 @@ Data Engineer
 
 ## Currently
 
-Standing on the shoulders of giants
-
-### Specialized in
-
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
-
-
-### Research interests
-
-Cooling, power series, optics, alchemy, planetary motions, apples.
+Data Engineer searching for new opportunities.
 
 ## Work Experience
 
 `09/2022 - present`
 __Technical consultant @ CEVT__
+
 Working as a Data Engineer in a cross functional team following the agile ways of working. I took part in discussions regarding services and frameworks to be used in our backend, most of which functionality was written in Go and some in Python. Implemented some functionality to handle http requests, connecting to a CloudSQL database and return some query results. Learned about migrations to control the evolution of a database. I also studied Terraform and investigated how we could benefit from using IaC.
+
+
 
 ## Education
 
-`1654-1660`
-__The King's School, Grantham.__
+`09/2014 - 06/2016`
+__Chalmers University of Technology__
 
-`June 1661 - now`
-__Trinity College, Cambridge__
+Master of Science in Engineering Mathematics and Computational Science.
 
-- Sizar
+`09/2009 - 06/2012`
+__Chalmers University of Technology__
 
-`1667 - death`
-__Trinity College, Cambridge__
-
-- Fellow
-
-
+Bachelor of Science in Engineering Mathematics.
 
 ## Awards
 
 `2012`
-President, *Royal Society*, London, UK
 
-Associate, *French Academy of Science*, Paris, France
-
-
+First price in the category Advanced Technology & Improving Processes of CTKs Bachelor thesis Challenge.
 
 ## Publications
 
@@ -72,11 +58,6 @@ Newton Sir I, De analysi per æquationes numero terminorum infinitas.
 Lectiones opticæ.
 
 etc. etc. etc.
-
-### Patents
-
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
 
 
 ## Occupation
