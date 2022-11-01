@@ -29,12 +29,12 @@ Working as a Data Engineer in a cross functional team following the agile ways o
 
 ## Education
 
-`09/2014 - 06/2016`
+`09/2014-06/2016`
 __Chalmers University of Technology__
 
 Master of Science in Engineering Mathematics and Computational Science.
 
-`09/2009 - 06/2012`
+`09/2009-06/2012`
 __Chalmers University of Technology__
 
 Bachelor of Science in Engineering Mathematics.
