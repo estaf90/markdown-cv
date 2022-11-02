@@ -60,8 +60,6 @@ First price in the category Advanced Technology & Improving Processes of CTKs Ba
 
 ## Publications
 
-### Conference
-
 `2018`
 <a href="https://research.chalmers.se/publication/506034">Introducing Compressed Mixture Models for Predicting Long-Lasting Brake Events</a>
 
