@@ -44,23 +44,18 @@ Continued working on the probabilistic model developed during the master thesis 
 ## Education
 
 `09/14-06/16`
-__Chalmers University of Technology__
-
-Master of Science in Engineering Mathematics and Computational Science.
+__Chalmers University of Technology__ *M.Sc. Engineering Mathematics and Computational Science*
 
 Master Tesis: <a href="https://odr.chalmers.se/items/726efcda-a3d9-4dbd-903d-5d84512b66fd">A study on Time Series Data Mining Techniques for Automotive Applications</a>
 
 `09/09-06/12`
-__Chalmers University of Technology__
-
-Bachelor of Science in Engineering Mathematics.
+__Chalmers University of Technology__ *B.Sc. in Engineering Mathematics*
 
 Bachelor Thesis: <a href="https://odr.chalmers.se/items/a2616bf0-3b52-448f-aef7-2d88da60998b">Estimering av snödjup genom analys av flervägsreflekterande GPS-signaler</a>
 
 ## Awards
 
 `2012`
-
 First price in the category Advanced Technology & Improving Processes of CTKs Bachelor thesis Challenge.
 
 ## Publications
@@ -76,27 +71,18 @@ First price in the category Advanced Technology & Improving Processes of CTKs Ba
 ### Technical
 
 `Proficient`
-- Python
-- Git
-- Docker
-- SQL
+- Python, Git, Docker, SQL
 
 `Competent`
-- Kubernetes
-- CI/CD
-- Cloud (GCP, AWS)
+- Kubernetes, CI/CD, Cloud (GCP, AWS)
 
 `Decent`
-- Golang
-- Terraform
+- Golang, Terraform
 
 ### Non-Technical
 
 `Proficient`
-- Communication
-- Collaboration
-- Cooperation
-- Problem Solving
+- Communication, Collaboration, Cooperation, Problem Solving
 
 
 <!-- ### Footer
