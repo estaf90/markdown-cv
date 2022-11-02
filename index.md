@@ -16,12 +16,12 @@ Engineer with a strong mathematical background and a passion for data engineerin
 ## Work Experience
 
 `09/22-now`
-__Technical consultant @ CEVT__
+__Emil Staf AB__: *Technical consultant @ CEVT*
 
 Working as a Data Engineer in a cross functional team following the agile ways of working. I took part in discussions regarding services and frameworks to be used in our backend, most of which functionality was written in Go and some in Python. Implemented some functionality to handle http requests, connecting to a CloudSQL database and return some query results. Learned about migrations to control the evolution of a database. I also studied Terraform and investigated how we could benefit from using IaC.
 
 `09/19-09/22`
-__Technical consultant @ CEVT__
+__Combine AB__: *Technical consultant @ CEVT*
 
 Took part in multiple projects over the course of a few years:
 
@@ -32,12 +32,12 @@ Wrote an ETL application in Python, to run on a RaspberryPi, enabling an innovat
 Worked in an innovation project building a MLOps pipeline for an object recognition model. In the project a lot of different tools and services in Google Cloud was being used to solve: data versioning, model training/deployment/versioning/serving, data labelling and exposing an api.
 
 `01/19-09/19`
-__Technical consultant @ Combine__
+__Combine AB__: *In-house projects*
 
 Pre-study projects for smaller companies, e.g. Lithium-Ion battery lifetime prediction for AiTree, data analysis for customer transactions and developing a dashboard for Nimpos transaction systems. Node development and testing machine learning library in Sympathy for Data, which code base is written in Python.
 
 `09/16-12/17`
-__Technical consultant @ Volvo Cars__
+__Combine AB__: *Technical consultant @ Volvo Cars*
 
 Continued working on the probabilistic model developed during the master thesis project. Extended the algorithm to handle both multivariate and mixed-variate data simultaneously. A trained mode featured the possibilities to marginal and conditional probabilities. Developed an object oriented Python based analysis framework.
 
