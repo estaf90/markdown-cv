@@ -53,16 +53,13 @@ __Chalmers University of Technology__ *B.Sc. in Engineering Mathematics*
 
 Bachelor Thesis: <a href="https://odr.chalmers.se/items/a2616bf0-3b52-448f-aef7-2d88da60998b">Estimering av snödjup genom analys av flervägsreflekterande GPS-signaler</a>
 
-## Awards
-
-`2012`
-First price in the category Advanced Technology & Improving Processes of CTKs Bachelor thesis Challenge.
-
-## Publications
+## Publications & Awards
 
 `2018`
 <a href="https://research.chalmers.se/publication/506034">Introducing Compressed Mixture Models for Predicting Long-Lasting Brake Events</a>
 
+`2012`
+First price in the category Advanced Technology & Improving Processes of CTKs Bachelor thesis Challenge.
 
 ## Skills
 
