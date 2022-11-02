@@ -25,11 +25,11 @@ __Combine AB__: *Technical consultant @ CEVT*
 
 Took part in multiple projects over the course of a few years:
 
-Worked as a project lead/developer in an innovation project to investigate the feasibility to detect abnormal communication on a CAN-bus using edge machine learning. The PoC was performed in collaboration with an external company, using their edge machine learning SDK.
+Worked as a project lead/developer in an innovation project to investigate the feasibility to detect abnormal communication on a CAN-bus using edge machine learning. A collaboration project with an external company, using their edge machine learning SDK.
 
 Wrote an ETL application in Python, to run on a RaspberryPi, enabling an innovation project PoC. The application was extracting data from multiple sources (CAN, GPS, IMU and Camera), transforming the data into a common format and loading it to a cloud bucket for further processing and calculations.
 
-Worked in an innovation project building a MLOps pipeline for an object recognition model. In the project a lot of different tools and services in Google Cloud was being used to solve: data versioning, model training/deployment/versioning/serving, data labelling and exposing an api.
+Worked in an innovation project building a MLOps pipeline for object recognition. A lot of different tools and services in Google Cloud was used to solve: data versioning, model training/deployment/versioning/serving, data labelling and exposing an api.
 
 `01/19-09/19`
 __Combine AB__: *In-house projects*
