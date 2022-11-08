@@ -22,9 +22,9 @@ Data Engineer i ett tvärfunktionellt agilt team. Deltog i tekniska diskussioner
 `09/19-09/22`
 __Combine AB__: *Data Engineer @ CEVT*
 
-Arbetade i ett innovationsprojekt där vi utvecklade ett MLOps ramverk för objektigenkänning. I projektet implementerade vi funktionalitet i molnet för att versionshantera data, träna/versionshantera/distribuera ML modellen, komma åt moln resurser via API. Jag var huvudansvarig för datahantering och versionshatering av modeller där vi byggde en egen skräddarsydd lösning (SQL/NoSQL) samt utvecklingen av vårt API som implementerades med hjälp av FastAPI.
+Arbetade i ett innovationsprojekt där vi utvecklade ett MLOps ramverk för objektigenkänning. I projektet implementerade vi funktionalitet i molnet för att versionshantera data, träna/versionshantera/distribuera ML modellen, komma åt moln resurser via API. Jag var huvudansvarig för datahantering och versionshatering av modeller där vi byggde en egen skräddarsydd lösning (SQL/NoSQL) samt utvecklingen API (FastAPI).
 
-Implementerade en ETL applikation i Python, för att köras på en RaspPi, och som möjliggjorde en POC i ett innovationsprojekt. Applikationen extraherade data från flera datakällor (CAN, GPS, IMU och Kamera) och skickade data för att lagras i en "data lake". Väl uppe i molnet triggades en ETL pipeline då en fil var framgångsrikt uppladdad som läste in validerade, transformerade data till filformat lämpligt för att laddas in i BigQuery (datalager) och väl där var redo för att gå igenom ytterligare pipelines för dataanalys.
+Implementerade en ETL applikation i Python, för att köras på en RaspPi, för ett innovationsprojekt. Applikationen extraherade data från flera datakällor (CAN, GPS, IMU och Kamera) och skickade data för att lagras i en "data lake". Väl uppe i molnet triggades en ETL pipeline då en fil var framgångsrikt uppladdad som läste in validerade, transformerade data till filformat lämpligt för att laddas in i BigQuery (datalager) för vidare dataanalys i data pipelines.
 
 `01/19-09/19`
 __Combine AB__: *ML Engineer i interna projekt*
