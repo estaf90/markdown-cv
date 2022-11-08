@@ -6,8 +6,7 @@ title: Emil Stafs's CV
 Data Engineer
 
 <div id="webaddress">
-<a href="emil.staf@gmail.com">emil.staf@gmail.com</a>
-| <a href="https://www.linkedin.com/in/emil-staf-523b8120/">LinkedIn Profile</a>
+<a href="https://www.linkedin.com/in/emil-staf-523b8120/">LinkedIn Profile</a> | emil.staf@gmail.com | 073-843 73 23
 </div>
 
 ## Presentation
@@ -18,16 +17,18 @@ Engineer with a strong mathematical background and a passion for data engineerin
 `09/22-now`
 __Emil Staf AB__: *Technical consultant @ CEVT*
 
-Working as a Data Engineer in a cross functional team following the agile ways of working. I took part in technical discussions and implementation regarding services and frameworks (including data pipelines for ETL) to be used in our backend, most of which functionality was written in Go and some in Python. Implemented some functionality to handle http requests, connecting to a CloudSQL database (PostgreSQL) and return some query results. Learned about migrations to control the evolution of a database. I also studied Terraform and investigated how we could benefit from using IaC.
+Working as a Data Engineer in a cross functional team following the agile ways of working. I took part in technical discussions and implementation regarding services and frameworks (including data pipelines for ETL) to be used in our backend, most of which functionality was written in Go and some in Python.
+
+I created database table relations by modeling data using ERD. Implemented functionality to handle http requests (APIGateway), connecting to a CloudSQL database (PostgreSQL) and return query results in response. Learned about migrations to control the evolution of a database. I also studied Terraform and investigated how we could benefit from using IaC.
 
 `09/19-09/22`
 __Combine AB__: *Technical consultant @ CEVT*
 
 Took part in multiple projects over the course of a few years:
 
-Worked in an innovation project building a MLOps pipeline for object recognition. We developed cloud solutions for data versioning, model training/deployment/versioning/serving, data labelling and exposing an api. A lot of different services in Google Cloud was used, e.g. Kubeflow, TorchServe, AirFlow, etc.
+Worked in an innovation project building a MLOps pipeline for object recognition. We developed cloud solutions for data versioning, model training/deployment/versioning/serving, data labelling and exposing an api. A lot of different services in Google Cloud was used, e.g. Kubeflow, TorchServe, AirFlow, etc. I took the major responsibility for the model versioning (SQL database) and the development of our API (FastAPI).
 
-Wrote an application in Python, to run on a RaspberryPi, enabling an innovation project PoC. The application was extracting data from multiple sources (CAN, GPS, IMU and Camera), transforming the data into a common format and loading it to a cloud bucket (data lake) for further processing and calculations. In cloud a data pipeline (cloud functions) for (ETL) would trigger on a successful file upload to validate and move data to BigQuery for future analysis.
+Wrote an application in Python, to run on a RaspberryPi, enabling an innovation project PoC. The application was extracting data from multiple sources (CAN, GPS, IMU and Camera), transforming the data into a common format and loading it to a cloud bucket (data lake) for further processing and calculations. In cloud a data pipeline for (ETL) would trigger on a successful file upload to validate and move data to BigQuery for future analysis.
 
 <!-- Worked as a project lead/developer in an innovation project to investigate the feasibility to detect abnormal communication on a CAN-bus using edge machine learning. A collaboration project with an external company, using their edge machine learning SDK. -->
 
