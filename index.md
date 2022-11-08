@@ -72,7 +72,7 @@ Förstapris in Advanced Technology & Improving Processes i CTKs kandidatarbetesu
 ### Icke-Tekniska
 
 `Skicklig`
-- Agile Development, Communication, Collaboration, Cooperation, Problem Solving
+- Agil utveckling, Kommunikation, Sammarbetsförmåga, Problemlösning
 
 
 <!-- ### Footer
