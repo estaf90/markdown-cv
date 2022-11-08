@@ -22,9 +22,9 @@ Data Engineer i ett tvärfunktionellt agilt team. Deltog i tekniska diskussioner
 `09/19-09/22`
 __Combine AB__: *Data Engineer @ CEVT*
 
-Arbetade i ett innovationsprojekt där vi utvecklade ett MLOps ramverk för objektigenkänning. I projektet implementerade vi funktionalitet i molnet för att versionshantera data, träna/versionshantera/distribuera ML modellen, komma åt moln resurser via API. Jag var huvudansvarig för versionshatering av modeller där vi byggde en egen skräddarsydd lösning (SQL/NoSQL) samt utvecklingen av vårt API som implementerades med hjälp av FastAPI.
+Arbetade i ett innovationsprojekt där vi utvecklade ett MLOps ramverk för objektigenkänning. I projektet implementerade vi funktionalitet i molnet för att versionshantera data, träna/versionshantera/distribuera ML modellen, komma åt moln resurser via API. Jag var huvudansvarig för datahantering och versionshatering av modeller där vi byggde en egen skräddarsydd lösning (SQL/NoSQL) samt utvecklingen av vårt API som implementerades med hjälp av FastAPI.
 
-Implementerade en ETL applikation i Python, för att köras på en RaspPi, och som möjliggjorde en POC i ett innovationsprojekt. Applikationen extraherade data från flera datakällor (CAN, GPS, IMU och Kamera) och skickade data för att lagras i molnet. Väl uppe i molnet triggades en ETL pipeline då en fil var framgångsrikt uppladdad som läste in validerade, transformerade data till filformat lämpligt för att laddas in i BigQuery och väl där var redo för att gå igenom ytterligare pipelines för dataanalys.
+Implementerade en ETL applikation i Python, för att köras på en RaspPi, och som möjliggjorde en POC i ett innovationsprojekt. Applikationen extraherade data från flera datakällor (CAN, GPS, IMU och Kamera) och skickade data för att lagras i en "data lake". Väl uppe i molnet triggades en ETL pipeline då en fil var framgångsrikt uppladdad som läste in validerade, transformerade data till filformat lämpligt för att laddas in i BigQuery (datalager) och väl där var redo för att gå igenom ytterligare pipelines för dataanalys.
 
 `01/19-09/19`
 __Combine AB__: *ML Engineer i interna projekt*
@@ -61,7 +61,7 @@ Förstapris in Advanced Technology & Improving Processes i CTKs kandidatarbetesu
 ### Tekniska
 
 `Skicklig`
-- Python, Git, Docker, SQL (PostgreSQL, MySQL)
+- Python, Git, Docker, SQL (databasmotorer: PostgreSQL, MySQL)
 
 `Kompetent`
 - Kubernetes, CI/CD, Cloud (GCP, AWS), NoSQL
