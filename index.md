@@ -3,18 +3,18 @@ layout: cv
 title: Emil Stafs's CV
 ---
 # Emil Staf
-Data Scientist/Engineer
+Data Scientist / Data Engineer
 
 <div id="webaddress">
 <a href="https://www.linkedin.com/in/emil-staf-523b8120/">LinkedIn Profile</a> | emil.staf@gmail.com | 073-843 73 23
 </div>
 
 ## Presentation
-Data Scientist/Engineer with a strong mathematical background and a passion for data engineering/science projects with a special interest in Cloud Development and DevOps/MLOps.
+An individual with a strong mathematical background and a passion for data engineering/science projects with a special interest in Cloud Development and DevOps/MLOps.
 
 ## Work Experience
 
-`12/22 - now`
+`12/22-now`
 __Emil Staf AB__: *Cloud Developer @ Sightic Analytics*
 
 Working as a Cloud Developer in a cross functional team. My main responsibility was to help Sightic develop their new backend, using a server-less architecture in AWS. The backend stack consisted of API GW, Lambda, DynamoDB databases, S3 storage, SageMaker (ML inference endpoints), Certificates, etc.
@@ -33,7 +33,7 @@ __Combine AB__: *Data Engineer @ CEVT*
 
 Worked in an innovation project building a MLOps pipeline for object recognition. We developed cloud solutions for data versioning, model training/deployment/versioning/serving, data labelling and exposing an api. A lot of different services in Google Cloud was used, e.g. Kubeflow, TorchServe, AirFlow, etc. I took the major responsibility for the model versioning (SQL database) and the development of our API (FastAPI).
 
-Wrote an application in Python, to run on a RaspberryPi, enabling an innovation project PoC. The application was extracting data from multiple sources (CAN, GPS, IMU and Camera), transforming the data into a common format and loading it to a cloud bucket (data lake) for further processing and calculations. In cloud a data pipeline for (ETL) would trigger on a successful file upload to validate and move data to BigQuery for future analysis.
+Wrote an application in Python, to run on a RaspberryPi, enabling an innovation project PoC. The application extracted data from multiple sources (CAN, GPS, IMU and Camera), transformed into a common format then uploaded to cloud (data lake) for further processing and calculations. In cloud a data pipeline for (ETL) would trigger on a successful file upload to validate and move data to BigQuery for future analysis.
 
 <!-- Worked as a project lead/developer in an innovation project to investigate the feasibility to detect abnormal communication on a CAN-bus using edge machine learning. A collaboration project with an external company, using their edge machine learning SDK. -->
 
@@ -41,12 +41,12 @@ Wrote an application in Python, to run on a RaspberryPi, enabling an innovation 
 `01/19-09/19`
 __Combine AB__: *In-house projects*
 
-Pre-study projects for smaller companies, e.g. Lithium-Ion battery lifetime prediction for AiTree, data analysis for customer transactions and developing a dashboard to visualize data for Nimpos transaction systems. Node development and testing machine learning library in Sympathy for Data, which code base is written in Python.
+Pre-study projects, e.g. Lithium-Ion battery lifetime prediction for AiTree, data analysis for customer transactions and developing a dashboard to visualize data for Nimpos transaction systems. Node development and testing machine learning library in Sympathy for Data, which code base is written in Python.
 
 `09/16-12/17`
 __Combine AB__: *ML Engineer @ Volvo Cars*
 
-Continued working on the probabilistic model developed during the master thesis project. Extended the algorithm to handle both multivariate and mixed-variate data simultaneously. A trained mode featured the possibilities to marginal and conditional probabilities. Developed an object oriented Python based analysis framework.
+Continued working on the probabilistic model developed during the master thesis. Extended the algorithm to handl multivariate and mixed-variate data simultaneously. A trained mode featured possibilities to extract marginal and conditional probabilities. Developed object oriented Python based analysis framework.
 
 ## Education
 
