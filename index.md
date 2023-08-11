@@ -29,7 +29,7 @@ __Emil Staf AB__: *Data Engineer @ CEVT*
 Working as a Data Engineer in a cross functional team following the agile ways of working. I took part in technical discussions and implementation regarding services and frameworks (including data pipelines for automating ETL) to be used in our backend, most of which functionality was written in Go and Python. I created database table relations by modeling data using ERD. Implemented CI pipeline for automatic testing in GitLab. Implemented functionality to handle http requests (APIGateway), connecting to a CloudSQL database (PostgreSQL) and return query results in response. Learned about migrations to control the evolution of a database. I also studied Terraform, investigated how we could benefit from using Infrastructure as Code (IaC) to simplify our DevOps work by programmatically being able to proision the physical resources we needed for our application to run in cloud.
 
 `09/19-09/22`
-__Combine AB__: *Data Engineer @ CEVT*
+__Combine AB__: *ML Engineer @ CEVT*
 
 Worked in an innovation project building a MLOps pipeline for object recognition. We developed cloud solutions for data versioning, model training/deployment/versioning/serving, data labelling and exposing an api. A lot of different services in Google Cloud was used, e.g. Kubeflow, TorchServe, AirFlow, etc. I took the major responsibility for the model versioning (SQL database) and the development of our API (FastAPI).
 
